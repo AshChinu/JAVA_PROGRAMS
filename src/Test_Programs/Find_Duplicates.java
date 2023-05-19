@@ -4,10 +4,10 @@ public class Find_Duplicates {
 
 	public static void main(String[] args)
 	{
-		String str = "ADFS";
+		String str = "ADFSAS";
 		int count;
 		char string[]= str.toCharArray();
-		System.out.println("Duplicate Character in Given String");
+		System.out.println("Duplicate Character in Given String is");
 		for(int i=0;i<str.length();i++)
 		{
 			count =1;
