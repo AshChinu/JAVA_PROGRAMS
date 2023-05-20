@@ -1,6 +1,6 @@
 package Test_Programs;
 
-public class Find_Duplicates {
+public class Find_Duplicates_In_String {
 
 	public static void main(String[] args)
 	{
