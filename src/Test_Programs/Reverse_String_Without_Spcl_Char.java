@@ -1,6 +1,6 @@
 package Test_Programs;
 
-public class Reverse_theString_without_SpclChar
+public class Reverse_String_Without_Spcl_Char
 {
 	public static void rev(char s[], int l, int r)
     {
