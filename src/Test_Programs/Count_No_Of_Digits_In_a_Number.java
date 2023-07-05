@@ -1,7 +1,7 @@
 package Test_Programs;
 
-public class Count_No_Of_Digits_In_a_Number {
-
+public class Count_No_Of_Digits_In_a_Number
+{
 	public static void main(String[] args) 
 	{
 	    int num = 1254961254;
@@ -13,5 +13,6 @@ public class Count_No_Of_Digits_In_a_Number {
 	    }
 		System.out.println("Number of Digits is: " +count);
 	}
-
 }
+
+// Answer is:- ( Number of Digits is: 10 )

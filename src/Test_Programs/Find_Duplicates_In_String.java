@@ -1,7 +1,7 @@
 package Test_Programs;
 
-public class Find_Duplicates_In_String {
-
+public class Find_Duplicates_In_String
+{
 	public static void main(String[] args)
 	{
 		String str = "ADFSAS";
@@ -24,5 +24,7 @@ public class Find_Duplicates_In_String {
 		}
 	}
 }
+
+/* Answer is:- Duplicate Character in Given String is  A  S  */
 
 

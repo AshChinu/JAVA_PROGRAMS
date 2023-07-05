@@ -12,4 +12,4 @@ public class Factorial
 		  System.out.println("Factorial of "+number+" is: "+fact);    
 	}
 }
-//Result //  5! = 5*4*3*2*1 = 120 
+//Result //  Factorial of 5 is: 120 (5! = 5*4*3*2*1 = 120) 

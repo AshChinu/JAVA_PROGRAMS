@@ -1,7 +1,5 @@
 package Test_Programs;
-
 import java.util.Scanner;
-
 public class Palindrome_String
 {
 	public static void main(String[] args) 

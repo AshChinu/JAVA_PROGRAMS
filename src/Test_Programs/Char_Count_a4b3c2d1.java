@@ -28,3 +28,5 @@ public class Char_Count_a4b3c2d1
 		getCharCount("aaabbbccdddeab");
 	}
 }
+
+// Answer is:- ( aaabbbccdddeab{a=4, b=4, c=2, d=3, e=1} )

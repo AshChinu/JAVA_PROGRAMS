@@ -1,7 +1,7 @@
 package Test_Programs;
 
-public class Fibonacci_Seriese {
-
+public class Fibonacci_Seriese
+{
 	public static void main(String[] args)
 	{
 		int a=0, b=1, c=0;
@@ -13,7 +13,7 @@ public class Fibonacci_Seriese {
 			a=b;
 			b=c;
 		}
-
 	}
-
 }
+
+// Answer is:- ( 0 1 1 2 3 5 8 13 21 34 )

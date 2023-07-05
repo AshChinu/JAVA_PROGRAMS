@@ -1,9 +1,7 @@
 package Test_Programs;
-
 import java.util.Scanner;
-
-public class Factors {
-
+public class Factors
+{
 	public static void main(String[] args)
 	{
 		int my_input, i;
@@ -17,7 +15,13 @@ public class Factors {
 			if (my_input % i ==0)
 				System.out.println(i + " ");
 		}
-
 	}
-
 }
+
+// Answer :-
+/*   Enter the number : 
+     5
+     The factors of 5 are: 
+     1 
+     5   
+*/
