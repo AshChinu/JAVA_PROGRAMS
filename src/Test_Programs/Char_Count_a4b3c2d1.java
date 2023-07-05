@@ -22,7 +22,7 @@ public class Char_Count_a4b3c2d1
 		}
 		System.out.println(name+charmap);
 	}
-	
+
 	public static void main(String[] args)
 	{
 		getCharCount("aaabbbccdddeab");
