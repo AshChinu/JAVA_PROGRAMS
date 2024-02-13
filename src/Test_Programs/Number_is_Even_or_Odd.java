@@ -12,4 +12,5 @@ public class Number_is_Even_or_Odd {
 	     else
 	              System.out.println(number + " is Odd Number");
 	      }
+	//  Result:-  30 is Even Number
 	}
